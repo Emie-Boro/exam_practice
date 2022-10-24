@@ -1,0 +1,122 @@
+*{
+    margin: 0%;
+}
+
+body{
+    background-image: linear-gradient(to top right, red, blue);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.examiner-intro{
+    display: block;
+}
+.examiner-intro input{
+    padding: 1%;
+    margin: 1%;
+    font-size: 16px;
+    border: none;
+    outline: none;
+}
+
+.container button{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right:3% ;
+    font-size: 16px;
+    background-color: white;
+    border: 0px;
+}
+.container button:hover{
+    background-color: transparent;
+    color: white;
+}
+.container{
+    text-align: center;
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+
+.examiner-subjects{
+    margin: 1%;
+}
+.subjects{
+    font-size: 12px;
+}
+.examiner-ads img{
+    height: 100px;
+    width: 100%;
+}
+.examiner-ads2 img{
+    height: 200px;
+    width: 100%;
+}
+.examiner-first{
+    text-align: center;
+    color:white;
+}
+
+.examiner-first p{
+    font-size: 15px;
+}
+footer{
+    padding: 5%;
+}
+.footer-contact{
+    color: white;
+}
+.examiner-copy{
+    text-align: center;
+}
+.examiner-div{
+    text-align: center;
+    color: white;
+    font-family: tahoma;
+}
+.examSheet1,
+.examSheet2,
+.examSheet3,
+.examSheet4,
+.examSheet5{
+    padding: 1%;
+}
+
+.examSheet1 p,
+.examSheet2 p,
+.examSheet3 p,
+.examSheet4 p,
+.examSheet5 p{
+    color: white;
+    font-size: 18px;
+}
+.examSheet1 button,
+.examSheet2 button,
+.examSheet3 button,
+.examSheet4 button,
+.examSheet5 button{
+    margin: 1%;
+    padding: 1%;
+    background-color: white;
+    border: none;
+    font-size: 16px;
+}
+.examSheet1 button:hover,
+.examSheet2 button:hover,
+.examSheet3 button:hover,
+.examSheet4 button:hover,
+.examSheet5 button:hover{
+    background-color: transparent;
+    color: white;
+}
+.examReset{
+    text-align: center;
+}
+.examReset button{
+    padding: 2%;
+    background-color: white;
+    border: none;
+}
+.examReset button:hover{
+    background-color: transparent;
+    color: white;
+}

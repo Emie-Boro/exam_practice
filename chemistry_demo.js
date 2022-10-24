@@ -1,0 +1,11 @@
+    {sheet:'Which of the following substance is a mixture?',answer:'sea-water',A:'granulated sugar',B:'sea-water',C:'sodium chloride', D:'iron-fillings'},
+    {sheet:'Which of the following species determines the chemical properties of an atom?',answer:'Electron',A:'Electron',B:'Neutron',C:'Nucleus',D:'Proton'},
+    {sheet:'A brand of ink containing cobalt (II), copper (II) and iron (II) ions can best be separated into its various components by', answer:'Chromatography',A:'fractional crystallization',B:'fractional distillation',C:'sublimation',D:'chromotography'},
+    {sheet:'Which of the following is a physical change?',answer:'The dissolution of sodium chloride in water',A:'The bubbling of chlorine into water',B:'The bubbling of chlorine into a jar containing hydrogen',C:'The dissolution of sodium chloride in water',D:'The passing of steam over heated iron'},
+    {sheet:'Which of the following substances is not a homogenous mixture?',answer:'writing ink',A:'filtered sea water',B:'soft drink',C:'flood water',D:'writing ink'},
+    {sheet:'There is a large temperature interval between the melting point and the boiling point of a metal because?',answer:'melting does not break the metallic bonds but boiling does',A:'Metals have very high melting point',B:'metals conduct heat very rapidly',C:'melting does not break the metallic bonds but boiling does',D:'the crystal lattice of metals is easily broken'},
+    {sheet:'The dissolution of common salt in water is a physical change because?',answer:'heat is not generated during mixing',A:'the salt can be obtained by crystallization',B:'the salt can be recovered by the evaporation',C:'heat is not generated during mixing',D:'the solution will not boil at 100 oC'},
+    {sheet:'Which of the following substances is a mixture?',answer:'bronze',A:'sulphur powder',B:'bronze',C:'distilled water',D:'ethanol'}
+    {sheet:'Helium atoms are chemically unreactive because?'answer:'the outer electron shell is completely filled',A:'there are no electrons around the nucleus',B:'the number of protons equals the number of electrons',C:'there are equal number of protons and neutrons in the nucleus',D:'the outer electron shell is completely filled'}
+// ] 
+// let chemistry                               _demo = [
